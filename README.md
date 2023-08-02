@@ -1,6 +1,6 @@
 - 👋 Olá!, sou João Bertuga!
-- Desenvolvedor Front-end React!
-- Site de portfolio em desenvolvimento -> joaobertuga.vercel.app
+- Desenvolvedor JavaSript
+- Aprendendo Java!
 
 <div >
   <a href="https://github.com/MozkitoKiller"/>
