@@ -1,5 +1,5 @@
 - 👋 Olá!, sou João Bertuga!
-- Desenvolvedor JavaSript
+- Desenvolvedor JavaScript
 - Aprendendo Java!
 
 <div >
